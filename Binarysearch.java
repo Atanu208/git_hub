@@ -20,6 +20,6 @@ public class Binarysearch {
 		// at position 4. So the function returns (-4-1)
 		// which is -5.
 		index = Collections.binarySearch(al, 13);
-		System.out.println(index);
+		System.out.println(index+1);
 	}
 }
